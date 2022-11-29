@@ -339,3 +339,11 @@ a:focus {
     list-style-position: inside;
   }
 }
+
+pre {
+  font-size: 0.8em!important;
+}
+
+.language-text {
+  font-size: 0.8em !important;
+}
