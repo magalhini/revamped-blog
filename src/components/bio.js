@@ -46,7 +46,10 @@ const Bio = () => {
         <p>
           Written by <strong>{author.name}</strong> {author?.summary || null}
           {` `}Follow me on{` `}
-          <a href="@magalhini@indieweb.social">Mastodon</a>.
+          <a rel="me" href="https://indieweb.social/@magalhini">
+            Mastodon
+          </a>
+          .
         </p>
       )}
     </div>
