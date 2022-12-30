@@ -10,7 +10,7 @@ published: true
 ---
 I've always been a big fan of "year in reviews" write-ups, despite some hesitancy in calling it a "*review*" this time around. Let's go with *self-reflection* instead.
 
-Last year was the first time I skipped a yearly self-reflection: I didn't write one up publicly nor privately. This wasn't out of laziness or lack of time, but an intentional action to prevent me from acknowledging how awful a year 2021 had felt like. Granted — in hindsight, no terrible thing happened last year, but I was feeling like shit, burnt out and unmotivated at many different levels.
+Last year was the first time I skipped a yearly self-reflection: I didn't write one up publicly nor privately. This wasn't out of laziness or lack of time, but an intentional action to prevent me from acknowledging how awful a year 2021 had felt like. Granted — in hindsight, no terrible thing happened last year, but I was feeling like shit, burnt out and unmotivated.
 
 So as I reflect on 2022, I'm hoping this will also help me reflect on how I'd like 2023 to be. While I was never on to set and focus on goals, I do very much enjoy the idea of focusing on yearly "themes". I [recently wrote about how I choose to look at goals](https://blog.ricardofilipe.com/new-year-reset/), come January 1st, and this year will be no different.
 
@@ -33,7 +33,7 @@ Let's see what I come up with reviewing 2022.
 - [Reading](#reading)
 - [Other Interests](#other-interests)
 - [Favourite Purchases](#favourite-purchases)
-  - [Running shoes: Hoka Ahari 6](#running-shoes-hoka-ahari-6)
+  - [Running shoes: Hoka Arahi 6](#running-shoes-hoka-arahi-6)
   - [FrontEnd Masters Subscription](#frontend-masters-subscription)
   - [Sony FE 1.8 85mm](#sony-fe-18-85mm)
   - [Ice skates](#ice-skates)
@@ -45,7 +45,7 @@ Let's see what I come up with reviewing 2022.
 
 ### Lockdowns and immigration
 
-There's a lot that I could fit in this category, some good things and some not so good things. Let's start with the good.
+There's a lot that I could fit in this category, some good things and some not so good things. Let's start with the bad, which then turns into good.
 
 At the beginning of this year, Canada (especially Quebec) was still in lockdown under a mandatory curfew. It's absolutely nuts to think that less than 12 months ago, I still wasn't legally allowed to step out of our apartment after 8pm. Being under the strictest lockdown in the entire North American continent (and also the longest) has really messed with how my perception of the world to this day. Sometimes I still look at the kitchen clock at 9pm and think there's a curfew outside.
 
@@ -77,15 +77,15 @@ Immediately after, I joined **Wealthsimple**, one of my favourite financial serv
 
 But of course, *2022* happened, and in July a lot changed when the company did mass layoffs. While I wasn't affected by them, a good two-thirds of my team did. Suddenly, everything felt... different. At the time, I was also realizing that working remotely was the definitive pain point for me, regardless of who I was working for. Thus began more dissatisfaction with my work: I felt alone again, unmotivated and disengaged, and with the company in high-savings mode, it was clear I wasn't going to get to travel as much as I hoped in order to meet colleagues and create those connections I'd been craving.
 
-And so, like so many others this year, I started interviewing. With some companies, I interviewed for all the wrong reasons (💰), and I was devastated by not getting one or two I had really high hopes for. In the end, I started a new position (also as a senior front-end developer) with the good folks at **Mercury**, and it's now been exactly a month since I started. Unfortunately, it's also a remote position, although with much better chances of travelling within the US, which I'm really excited about.
+And so, like so many others this year, I started interviewing. With some companies I interviewed for all the wrong reasons (💰), and I was devastated by not getting one or two I had really high hopes for. In the end, I started a new position (also as a senior front-end developer) with the good folks at **Mercury**, and it's now been exactly a month since I started. Unfortunately, it's also a remote position, although with much better chances of travelling within the US, which I'm really excited about.
 
-I'm still not completely satisfied by my relationship with work; I really miss going to an office a few days a week. Unfortunately, Montréal is a bit of a tech-desert these days, with most options being highly underpaid or unappealing. Part of me still daydreams of being in a hub like Vancouver or Toronto so I could finally, maybe, begin to love work again.
+I'm still not completely satisfied by my relationship with work; I really miss going to an office a few days a week. Montréal is a bit of a tech-desert these days, with most options being highly underpaid or very unappealing. Part of me still daydreams of being in a major city like Vancouver or Toronto so I could finally, maybe, begin to love work again.
 
 ## Side Projects and hobbies
 
 ### In tech
 
-This one hits hard: pretty much nothing happened in 2022, and I feel... ashamed? While time wasn't exactly on my side (I've spent hundreds of hours doing interview prep this year), this year was the definite death of my typography newsletter. Not a single issue was written, and while I'm technically still keeping the newsletter open, I haven't had any motivation to write or do research at all.
+This one hits hard: pretty much nothing happened in 2022, and I feel... ashamed? While time wasn't exactly on my side (I've spent hundreds of hours doing interview prep this year), this year was the definite death of my [typography newsletter](https://coffeetabletypography.substack.com/). Not a single issue was written, and while I'm technically still keeping the newsletter open, I haven't had any motivation to write or do research at all.
 
 I did pick up a personal project though, as an excuse to learn more full-stack development using Next.js and Postgres, but even that is going tremendously slow (a book management system for our bookshelves in our apartment). I do plan on continuing this next year though, but it's very likely that I'll never get to finish the basics.
 
@@ -251,7 +251,7 @@ I feel desperately compelled to be an advocate for pedestrian-first, accessible,
 
 Both material and non-material, there have been a few things this year where spending the extra bucks have made my life either easier or better; sometimes both.
 
-### Running shoes: Hoka Ahari 6
+### Running shoes: Hoka Arahi 6
 Remember the plantar fasciitis issues I mentioned above, which kept me from running for months on end? While a lot of my recovery came from physiotherapy and rest, I'm 100% sure that preventing it from re-appearing came from switching from my trustworthy Nike Pegasus to the [Hoka Arahi 6](https://ca.shop.runningroom.com/en_ca/hoka-men-s-arahi-6-d-width-running-shoe.html). What an incredible shoe.
 
 It took me a little getting used to Hokas: they're a stability shoe with a fair amount of padding, a feature I typically never really enjoyed. But since switching to them 700km ago (I need a new pair, yes, I know), the truth is that I haven't even felt a pinch of plantar fasciitis pain in my foot!
